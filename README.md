@@ -34,6 +34,7 @@ Repository for listing useful opensource security tools
 
 ## Forensic Tools
 1. AzureHunter: A Powershell module to run threat hunting playbooks on data from Azure and O365 for Cloud Forensics purposes - https://github.com/darkquasar/AzureHunter
+2. EricZimmerman Tools: A collection of open source forensic tools - https://ericzimmerman.github.io/#!index.md
 
 ## Web Tools
 1. dirsearch: An advanced command-line tool designed to brute force directories and files in webservers - https://github.com/maurosoria/dirsearch
