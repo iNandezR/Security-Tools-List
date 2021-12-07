@@ -1,11 +1,12 @@
 # Securiy-Tools
 Repository for listing useful opensource security tools
 
-# Defensive
 ## OSINT
-1. https://github.com/smicallef/spiderfoot
-2. https://github.com/thewhiteh4t/pwnedOrNot
-3. https://github.com/rlyonheart/occli
+1. SpiderFoot: An open source intelligence (OSINT) automation tool - https://github.com/smicallef/spiderfoot
+2. pwnedOrNot: OSINT Tool for Finding Passwords of Compromised Email Accounts - https://github.com/thewhiteh4t/pwnedOrNot
+3. Open Corporates CLI: A website that shares data on corporations under the copyleft Open Database License - https://github.com/rlyonheart/occli
+
+# Defensive Tools
 
 ## Vulnerability Management
 1. https://github.com/HASecuritySolutions/VulnWhisperer
